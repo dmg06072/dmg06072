@@ -29,15 +29,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmg06072&layout=compact)
 
 ## 📫 Contact
+<table align="center">
+<tr>
+<td><a href="mailto:dmg06072@naver.com"><img height="28px" src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=naver&logoColor=white"/></a></td>
+<td><a href="mailto:jangteve69@gmail.com"><img height="28px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a></td>
+</tr>
+</table>
 
-<p align="left">
-  <!-- Naver Mail -->
-  <a href="mailto:dmg06072@naver.com">
-    <img height="28px" src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=naver&logoColor=white"/>
-  </a>
 
-  <!-- Gmail -->
-  <a href="mailto:jangteve69@gmail.com">
-    <img height="28px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+
