@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b0ef9741-1f32-4ba3-9ede-e442decc0d30" />
+  <img src="https://github.com/user-attachments/assets/bea659c6-cdaa-404b-97bf-4671a4ef9768" alt="takopis-original"/>
 </div>
 
 ---
