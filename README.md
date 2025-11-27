@@ -29,7 +29,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmg06072&layout=compact)
 
 ## 🚀 Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://dmg06072.github.io/Portfolio.github.io/)
+<a href="https://dmg06072.github.io/Portfolio.github.io/">
+  <span style="text-decoration: none; border: 0;">
+    🌐 포트폴리오 바로가기
+  </span>
+</a>
 
 ## 📫 Contact
 <table align="center">
