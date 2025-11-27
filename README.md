@@ -28,6 +28,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmg06072&layout=compact)
 
+## 🚀 Portfolio
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://dmg06072.github.io/Portfolio.github.io/)
+
 ## 📫 Contact
 <table align="center">
 <tr>
