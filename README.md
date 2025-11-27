@@ -30,9 +30,7 @@
 
 ## 🚀 Portfolio
 <a href="https://dmg06072.github.io/Portfolio.github.io/">
-  <span style="text-decoration: none; border: 0;">
-    🌐 포트폴리오 바로가기
-  </span>
+  🌐 포트폴리오 바로가기
 </a>
 
 ## 📫 Contact
