@@ -38,6 +38,12 @@
 <tr>
 <td><a href="mailto:dmg06072@naver.com"><img height="28px" src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=naver&logoColor=white"/></a></td>
 <td><a href="mailto:jangteve69@gmail.com"><img height="28px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a></td>
+<td>
+  <a href="https://www.notion.so/2446d9af05f48036b24fe5dc8a410ef7?v=2446d9af05f480b0b30a000cd8361b76&source=copy_link" target="_blank">
+    <img height="28px"
+         src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  </a>
+</td>
 </tr>
 </table>
 
